@@ -8,7 +8,7 @@ CATEGORIES:Sky Max
 DESCRIPTION:The Lazarus Project team sets out to break the cycle\, while a
   guilt-ridden George is desperate to redeem himself as he attempts to win
   back the lost trust of his colleagues and Sarah.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231115
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -16,12 +16,96 @@ SUMMARY:The Lazarus Project - 2x01 - Episode 1
 UID:NzbDrone_episode_6311
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Sky Max
+DESCRIPTION:The team attempts to track down the time machine that had been
+  used to transport Janet back to 2012\, while an unexpected visitor from 
+ the past comes looking for George.
+DTSTAMP:20231121T060002Z
+DTSTART;VALUE=DATE:20231115
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lazarus Project - 2x02 - Episode 2
+UID:NzbDrone_episode_6312
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Max
+DESCRIPTION:The Lazarus team gets closer to cracking the science behind ti
+ me travel. However\, what they don’t know is that their mission isn’t qui
+ te as straightforward as is making it out to be.
+DTSTAMP:20231121T060002Z
+DTSTART;VALUE=DATE:20231115
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lazarus Project - 2x03 - Episode 3
+UID:NzbDrone_episode_6313
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Max
+DESCRIPTION:When the time machine doesn’t work in the way they’d planned\,
+  George and the other members of the Lazarus mission are left stranded in
+  the wrong year – but could somebody be conspiring against them?
+DTSTAMP:20231121T060002Z
+DTSTART;VALUE=DATE:20231115
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lazarus Project - 2x04 - Episode 4
+UID:NzbDrone_episode_6314
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Max
+DESCRIPTION:While the Lazarus team is trying to find its way back to 2012\
+ , Janet is already there\, hard at work with Dr Gray.
+DTSTAMP:20231121T060002Z
+DTSTART;VALUE=DATE:20231115
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lazarus Project - 2x05 - Episode 5
+UID:NzbDrone_episode_6315
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Max
+DESCRIPTION:After successfully arriving in 2012\, George and the Lazarus t
+ eam face their biggest challenge yet as they attempt to rescue Janet and 
+ retrieve the time machine.
+DTSTAMP:20231121T060002Z
+DTSTART;VALUE=DATE:20231115
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lazarus Project - 2x06 - Episode 6
+UID:NzbDrone_episode_6316
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Max
+DESCRIPTION:When a catastrophic event severely compromises the Lazarus tea
+ m’s plans\, George and Sarah must work together to execute their mission 
+ and are forced to go head-to-head with an unyielding Wes.
+DTSTAMP:20231121T060002Z
+DTSTART;VALUE=DATE:20231115
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lazarus Project - 2x07 - Episode 7
+UID:NzbDrone_episode_6317
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky Max
+DESCRIPTION:Things come to a head as missions\, agents\, and issues from t
+ he past and present collide in one epic confrontation. George and the oth
+ er Lazarus agents have just one chance to try and save their own while fi
+ xing the three- week loop once and for all.
+DTSTAMP:20231121T060002Z
+DTSTART;VALUE=DATE:20231115
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lazarus Project - 2x08 - Episode 8
+UID:NzbDrone_episode_6318
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:MBS
 DESCRIPTION:After being severely injured in his fight against Toji\, Fushi
  guro suffers a surprise attack from Shigemo. On the verge of death\, Fush
  iguro desperately heads toward Dogenzaka crossing and summons a certain s
  hikigami with his Ten Shadows Technique.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231116
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -32,7 +116,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:New Helios employees arrive on Mars as NASA undergoes major ch
  anges.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -44,7 +128,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:Mark starts his college career\, Debbie struggles with persona
  l trauma\, and Allen the Alien returns home to find a new threat facing t
  he Coalition of Planets.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -56,7 +140,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Cate travels to Japan to get answers about her father and unco
  vers a shocking secret. Keiko\, Lee\, and Billy pursue a theory about Tit
  ans.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -68,7 +152,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Monarch closes in on Cate\, Kentaro\, and May as they try to t
  rack down a key individual. Keiko\, Lee\, and Billy stumble on a major fi
  nd.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231117
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -78,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Whitney attempts to forge new alliances.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231119
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -88,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:Gotta keep those receipts\, dawg.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231119
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -99,7 +183,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Miles tries to make ends meet. Margo finds herself pulled into
   a dangerous situation.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231122
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -111,7 +195,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Shaw leads the team on a dangerous mission to Alaska in search
   of Hiroshi. Keiko\, Lee\, and Billy present their findings to General Pu
  ckett.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231122
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -119,20 +203,8 @@ SUMMARY:Monarch: Legacy of Monsters - 1x03 - Secrets and Lies
 UID:NzbDrone_episode_10080
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Max
-DESCRIPTION:The team attempts to track down the time machine that had been
-  used to transport Janet back to 2012\, while an unexpected visitor from 
- the past comes looking for George.
-DTSTAMP:20231120T060002Z
-DTSTART;VALUE=DATE:20231122
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Lazarus Project - 2x02 - Episode 2
-UID:NzbDrone_episode_6312
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:MBS
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231123
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -141,7 +213,7 @@ UID:NzbDrone_episode_8706
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231124
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -150,7 +222,7 @@ UID:NzbDrone_episode_9954
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231126
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -160,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:High school\, broh. Morty and Summer hang out in this one.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231126
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -168,20 +240,8 @@ SUMMARY:Rick and Morty - 7x07 - Wet Kuat Amortican Summer
 UID:NzbDrone_episode_9667
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Max
-DESCRIPTION:The Lazarus team gets closer to cracking the science behind ti
- me travel. However\, what they don’t know is that their mission isn’t qui
- te as straightforward as is making it out to be.
-DTSTAMP:20231120T060002Z
-DTSTART;VALUE=DATE:20231129
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Lazarus Project - 2x03 - Episode 3
-UID:NzbDrone_episode_6313
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:MBS
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231130
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -190,7 +250,7 @@ UID:NzbDrone_episode_8707
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231201
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -199,7 +259,7 @@ UID:NzbDrone_episode_9465
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231201
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -208,7 +268,7 @@ UID:NzbDrone_episode_10081
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231203
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -218,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:Action! Adventure! It's a whole movie\, broh!
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231203
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -226,20 +286,8 @@ SUMMARY:Rick and Morty - 7x08 - Rise of the Numbericons: The Movie
 UID:NzbDrone_episode_9668
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Max
-DESCRIPTION:When the time machine doesn’t work in the way they’d planned\,
-  George and the other members of the Lazarus mission are left stranded in
-  the wrong year – but could somebody be conspiring against them?
-DTSTAMP:20231120T060002Z
-DTSTART;VALUE=DATE:20231206
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Lazarus Project - 2x04 - Episode 4
-UID:NzbDrone_episode_6314
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:MBS
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231207
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -248,7 +296,7 @@ UID:NzbDrone_episode_8708
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231208
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -257,7 +305,7 @@ UID:NzbDrone_episode_9466
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231208
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -266,7 +314,7 @@ UID:NzbDrone_episode_10082
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231210
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -276,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:Heaven is for real\, broh. I saw it\, broh\, I swear.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231210
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -284,19 +332,8 @@ SUMMARY:Rick and Morty - 7x09 - Mort: Ragnarick
 UID:NzbDrone_episode_9669
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Max
-DESCRIPTION:While the Lazarus team is trying to find its way back to 2012\
- , Janet is already there\, hard at work with Dr Gray.
-DTSTAMP:20231120T060002Z
-DTSTART;VALUE=DATE:20231213
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Lazarus Project - 2x05 - Episode 5
-UID:NzbDrone_episode_6315
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:MBS
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231214
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -305,7 +342,7 @@ UID:NzbDrone_episode_8709
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231215
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -314,7 +351,7 @@ UID:NzbDrone_episode_9467
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231215
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -323,7 +360,7 @@ UID:NzbDrone_episode_10083
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -333,7 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:Only thing to fear is fear itself\, broh.
-DTSTAMP:20231120T060002Z
+DTSTAMP:20231121T060002Z
 DTSTART;VALUE=DATE:20231217
 SEQUENCE:0
 STATUS:TENTATIVE
