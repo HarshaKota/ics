@@ -4,23 +4,10 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:MBS
-DESCRIPTION:After rescuing Itadori from his predicament\, Todo bolsters hi
- s morale and encourages him to stand back up. As Mahito kicks things into
-  higher gear\, he begins using Soul Multiplicity and Body Repel to unleas
- h omnidirectional attacks.
-DTSTAMP:20231221T060003Z
-DTSTART;VALUE=DATE:20231214
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Jujutsu Kaisen - 2x21 - Metamorphosis
-UID:NzbDrone_episode_8709
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Unlikely partnerships are formed at a high-stakes internationa
  l conference.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231215
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -31,7 +18,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Shaw finds an unlikely ally within Monarch as the team has a h
  arrowing run-in. Keiko and Lee grow closer while at a military ball.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231215
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -41,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:A plan is hatched to spice up the show.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Adult Swim
 DESCRIPTION:Only thing to fear is fear itself\, broh.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231217
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -63,7 +50,7 @@ CATEGORIES:Sky Max
 DESCRIPTION:After successfully arriving in 2012\, George and the Lazarus t
  eam face their biggest challenge yet as they attempt to rescue Janet and 
  retrieve the time machine.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231220
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -75,7 +62,7 @@ CATEGORIES:Comedy Central
 DESCRIPTION:After it's discovered that a teacher at South Park Elementary 
  has an OnlyFans page\, Randy is compelled to take a closer look at the se
  edy underbelly of the world of online influencers.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231220
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -84,7 +71,11 @@ UID:NzbDrone_episode_10714
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:MBS
-DTSTAMP:20231221T060003Z
+DESCRIPTION:The moment it appeared Itadori and Mahito's battle to the deat
+ h was resolved\, the being wearing Geto's body asked\, "Shall I save you\
+ , Mahito?" Itadori immediately recognizes the man before him as the very 
+ same one who sealed away Gojo and leaps to attack.
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231221
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -95,10 +86,10 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:A group on Mars takes drastic measures. Margo grapples with a 
  new assignment.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231222
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:For All Mankind - 4x07 - Crossing the Line
 UID:NzbDrone_episode_9468
 END:VEVENT
@@ -106,10 +97,10 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:May finally faces her past. Duvall and Shaw follow traces of G
  odzilla and Hiroshi.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231222
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Monarch: Legacy of Monsters - 1x07 - Will the Real May Please Stan
  d Up?
 UID:NzbDrone_episode_10084
@@ -117,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Whitney and Cara become closer as Asher’s past comes to light.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231224
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -125,29 +116,42 @@ SUMMARY:The Curse - 1x07 - Self-Exclusion
 UID:NzbDrone_episode_10094
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:MBS
+DTSTAMP:20231222T060003Z
+DTSTART;VALUE=DATE:20231228
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Jujutsu Kaisen - 2x23 - Shibuya Incident: Gate Closed
+UID:NzbDrone_episode_8711
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Sky Max
 DESCRIPTION:When a catastrophic event severely compromises the Lazarus tea
  m’s plans\, George and Sarah must work together to execute their mission 
  and are forced to go head-to-head with an unyielding Wes.
-DTSTAMP:20231221T060003Z
-DTSTART;VALUE=DATE:20231227
+DTSTAMP:20231222T060003Z
+DTSTART;VALUE=DATE:20231228
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Lazarus Project - 2x07 - Episode 7
 UID:NzbDrone_episode_6317
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:MBS
-DTSTAMP:20231221T060003Z
+CATEGORIES:Sky Max
+DESCRIPTION:Things come to a head as missions\, agents\, and issues from t
+ he past and present collide in one epic confrontation. George and the oth
+ er Lazarus agents have just one chance to try and save their own while fi
+ xing the three- week loop once and for all.
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231228
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Jujutsu Kaisen - 2x23 - TBA
-UID:NzbDrone_episode_8711
+SUMMARY:The Lazarus Project - 2x08 - Episode 8
+UID:NzbDrone_episode_6318
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231229
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -156,7 +160,7 @@ UID:NzbDrone_episode_9469
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231229
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -167,7 +171,7 @@ BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Asher and Dougie have a boys night out. Whitney explores her a
  rtistic side.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20231231
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -175,21 +179,8 @@ SUMMARY:The Curse - 1x08 - Down and Dirty
 UID:NzbDrone_episode_10095
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Sky Max
-DESCRIPTION:Things come to a head as missions\, agents\, and issues from t
- he past and present collide in one epic confrontation. George and the oth
- er Lazarus agents have just one chance to try and save their own while fi
- xing the three- week loop once and for all.
-DTSTAMP:20231221T060003Z
-DTSTART;VALUE=DATE:20240103
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Lazarus Project - 2x08 - Episode 8
-UID:NzbDrone_episode_6318
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20240105
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -198,7 +189,7 @@ UID:NzbDrone_episode_9470
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20240105
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -208,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Dougie gets a surprise visit. The Siegels go bowling.
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20240107
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -217,7 +208,7 @@ UID:NzbDrone_episode_10096
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20240112
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -226,7 +217,7 @@ UID:NzbDrone_episode_9471
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20240112
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -236,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Months later…
-DTSTAMP:20231221T060003Z
+DTSTAMP:20231222T060003Z
 DTSTART;VALUE=DATE:20240114
 SEQUENCE:0
 STATUS:TENTATIVE
