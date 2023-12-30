@@ -4,44 +4,32 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:A group on Mars takes drastic measures. Margo grapples with a 
- new assignment.
-DTSTAMP:20231229T060002Z
-DTSTART;VALUE=DATE:20231222
+CATEGORIES:Disney+
+DESCRIPTION:When Ego and a young Peter Quill threaten Earth in 1988\, Howa
+ rd Stark and Peggy Carter form a team.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231223
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:For All Mankind - 4x07 - Crossing the Line
-UID:NzbDrone_episode_9468
+SUMMARY:What If…? - 2x02 - What if… Peter Quill Attacked Earth’s Mightiest
+  Heroes?
+UID:NzbDrone_episode_10749
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:May finally faces her past. Duvall and Shaw follow traces of G
- odzilla and Hiroshi.
-DTSTAMP:20231229T060002Z
-DTSTART;VALUE=DATE:20231222
+CATEGORIES:Disney+
+DESCRIPTION:When Avengers Tower is attacked during the holiday party\, Hap
+ py Hogan must prove his hero chops.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231224
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Monarch: Legacy of Monsters - 1x07 - Will the Real May Please Stan
- d Up?
-UID:NzbDrone_episode_10084
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DESCRIPTION:Reacher and his team head to Boston to track down a political 
- aide with insider knowledge of a top secret military-defense contract tha
- t may be the reason behind their friends' deaths.
-DTSTAMP:20231229T060002Z
-DTSTART;VALUE=DATE:20231222
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Reacher - 2x04 - A Night at the Symphony
-UID:NzbDrone_episode_10726
+SUMMARY:What If…? - 2x03 - What if… Happy Hogan Saved Christmas?
+UID:NzbDrone_episode_10750
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Whitney and Cara become closer as Asher’s past comes to light.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,12 +37,69 @@ SUMMARY:The Curse - 1x07 - Self-Exclusion
 UID:NzbDrone_episode_10094
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Tony Stark challenges The Grandmaster\, leading to a grand pri
+ x-turned-demolition-derby death match.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231225
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What If…? - 2x04 - What if… Iron Man Crashed Into the Grandmaster?
+UID:NzbDrone_episode_10751
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Captain Carter’s mission to save Steve Rogers sets her on a co
+ llision course with new enemies.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231226
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What If…? - 2x05 - What if… Captain Carter Fought the Hydra Stompe
+ r?
+UID:NzbDrone_episode_10752
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Percy sets off on the quest to return Zeus’ master bolt and st
+ op a war between the gods.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231226
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Percy Jackson and the Olympians - 1x03 - We Visit the Garden Gnome
+  Emporium
+UID:NzbDrone_episode_10733
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:A Mohawk woman ventures into the waters of the Forbidden Lake 
+ to help save her people.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231227
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What If…? - 2x06 - What if… Kahhori Reshaped the World?
+UID:NzbDrone_episode_10753
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Hela—stripped of her powers and banished to Earth—comes across
+  a new source of power: the Ten Rings.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231228
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What If…? - 2x07 - What if… Hela Found the Ten Rings?
+UID:NzbDrone_episode_10754
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:MBS
 DESCRIPTION:Choso begins to realize the identity of the mastermind parasit
  izing Geto's corpse as sorcerers gather for the final moments of the Shib
  uya Incident. The special-grade sorcerer\, Yuki Tsukumo\, comes to the re
  scue when they're on the verge of death.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231228
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -66,7 +111,7 @@ CATEGORIES:Sky Max
 DESCRIPTION:When a catastrophic event severely compromises the Lazarus tea
  m’s plans\, George and Sarah must work together to execute their mission 
  and are forced to go head-to-head with an unyielding Wes.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231228
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -79,7 +124,7 @@ DESCRIPTION:Things come to a head as missions\, agents\, and issues from t
  he past and present collide in one epic confrontation. George and the oth
  er Lazarus agents have just one chance to try and save their own while fi
  xing the three- week loop once and for all.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231228
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -90,7 +135,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Plans are made with interplanetary ramifications. Ed begins wo
  rking with an unexpected partner.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231229
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -101,7 +146,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:The team goes back to where things all began to confront Shaw.
   On the brink of collapse\, Monarch takes drastic measures.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231229
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -111,9 +156,9 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:Neagley and Dixon discover shocking information about an old f
- riend in Denver while Reacher and O'Donnell learn more about the nefariou
- s and mysterious A.M..
-DTSTAMP:20231229T060002Z
+ riend in Denver. Reacher and O’Donnell learn more about the nefarious and
+  mysterious A.M..
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231229
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -121,19 +166,64 @@ SUMMARY:Reacher - 2x05 - Burial
 UID:NzbDrone_episode_10727
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Captain Carter tries to undo the anomaly that strands familiar
+  heroes and villains in the year 1602.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231229
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What If…? - 2x08 - What if… the Avengers Assembled in 1602?
+UID:NzbDrone_episode_10755
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:When Captain Carter teams up with an old friend to hunt down v
+ icious Universe Killers terrorizing the Multiverse\, she finds the greate
+ st threat to all existence may be closer to her than she realizes.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20231230
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:What If…? - 2x09 - What if… Strange Supreme Intervened?
+UID:NzbDrone_episode_10756
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Asher and Dougie have a boys night out. Whitney explores her a
  rtistic side.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20231231
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Curse - 1x08 - Down and Dirty
 UID:NzbDrone_episode_10095
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Disney+
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240102
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Percy Jackson and the Olympians - 1x04 - I Plunge to My Death
+UID:NzbDrone_episode_10734
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231229T060002Z
+DESCRIPTION:Shaw and May search for Cate and make a startling discovery. K
+ entaro struggles with his loss.
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240104
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Monarch: Legacy of Monsters - 1x09 - Axis Mundi
+UID:NzbDrone_episode_10086
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DESCRIPTION:Things start to go awry just as an important mission approache
+ s a critical juncture.
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20240105
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -141,17 +231,8 @@ SUMMARY:For All Mankind - 4x09 - Brazil
 UID:NzbDrone_episode_9470
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DTSTAMP:20231229T060002Z
-DTSTART;VALUE=DATE:20240105
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Monarch: Legacy of Monsters - 1x09 - TBA
-UID:NzbDrone_episode_10086
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20240105
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -159,9 +240,36 @@ SUMMARY:Reacher - 2x06 - New York's Finest
 UID:NzbDrone_episode_10728
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240105
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Gyeongseong Creature - 1x08 - TBA
+UID:NzbDrone_episode_10764
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240105
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Gyeongseong Creature - 1x09 - TBA
+UID:NzbDrone_episode_10765
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240105
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Gyeongseong Creature - 1x10 - TBA
+UID:NzbDrone_episode_10766
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Dougie gets a surprise visit. The Siegels go bowling.
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20240107
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -169,8 +277,27 @@ SUMMARY:The Curse - 1x09 - Young Hearts
 UID:NzbDrone_episode_10096
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Disney+
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240109
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Percy Jackson and the Olympians - 1x05 - A God Buys Us Cheeseburge
+ rs
+UID:NzbDrone_episode_10735
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV+
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240111
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Monarch: Legacy of Monsters - 1x10 - TBA
+UID:NzbDrone_episode_10087
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV+
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20240112
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -178,17 +305,8 @@ SUMMARY:For All Mankind - 4x10 - Perestroika
 UID:NzbDrone_episode_9471
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DTSTAMP:20231229T060002Z
-DTSTART;VALUE=DATE:20240112
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Monarch: Legacy of Monsters - 1x10 - TBA
-UID:NzbDrone_episode_10087
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20240112
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -198,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Months later…
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20240114
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -206,12 +324,31 @@ SUMMARY:The Curse - 1x10 - Green Queen
 UID:NzbDrone_episode_10097
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Disney+
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240116
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Percy Jackson and the Olympians - 1x06 - We Take a Zebra to Vegas
+UID:NzbDrone_episode_10736
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20231229T060002Z
+DTSTAMP:20231230T060002Z
 DTSTART;VALUE=DATE:20240119
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Reacher - 2x08 - Fly Boy
 UID:NzbDrone_episode_10730
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTSTAMP:20231230T060002Z
+DTSTART;VALUE=DATE:20240123
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Percy Jackson and the Olympians - 1x07 - We Find Out the Truth\, S
+ ort Of
+UID:NzbDrone_episode_10737
 END:VEVENT
 END:VCALENDAR
