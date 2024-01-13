@@ -4,67 +4,9 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV+
-DESCRIPTION:Things start to go awry just as an important mission approache
- s a critical juncture.
-DTSTAMP:20240112T060002Z
-DTSTART;VALUE=DATE:20240105
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:For All Mankind - 4x09 - Brazil
-UID:NzbDrone_episode_9470
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DESCRIPTION:As the mystery continues to unfold\, Reacher and his team set 
- a trap to even the score.
-DTSTAMP:20240112T060002Z
-DTSTART;VALUE=DATE:20240105
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Reacher - 2x06 - New York's Finest
-UID:NzbDrone_episode_10728
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:An unlikely acquaintance becomes Tae-sang's ticket out of the 
- hospital. After a touching reunion\, Tae-sang and Chae-ok encounter a tra
- nsformed Myeong-ja.
-DTSTAMP:20240112T060002Z
-DTSTART;VALUE=DATE:20240105
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Gyeongseong Creature - 1x08 - Awakening
-UID:NzbDrone_episode_10764
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:After a series of grisly deaths\, Ishikawa finds Myeong-ja in 
- her new state. Tae-sang shares a tender moment with Chae-ok\, unaware of 
- her hidden plan.
-DTSTAMP:20240112T060002Z
-DTSTART;VALUE=DATE:20240105
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Gyeongseong Creature - 1x09 - Atrocity
-UID:NzbDrone_episode_10765
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:In order to rescue Chae-ok and stop the atrocity\, Tae-sang an
- d Jung-won forge a plan. But just as the coast seems clear\, Yukiko Maeda
-  stands in the way.
-DTSTAMP:20240112T060002Z
-DTSTART;VALUE=DATE:20240105
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Gyeongseong Creature - 1x10 - Tear
-UID:NzbDrone_episode_10766
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Dougie gets a surprise visit. The Siegels go bowling.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240107
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -75,7 +17,7 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:The quest deepens as Percy\, Annabeth\, and Grover are tasked 
  with a favor from a fearsome opponent.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240109
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -87,10 +29,10 @@ BEGIN:VEVENT
 CATEGORIES:Peacock
 DESCRIPTION:When Matty makes Ted go to school with John\, Ted immediately 
  decides to get expelled.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240111
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:ted - 1x01 - Just Say Yes
 UID:NzbDrone_episode_11162
 END:VEVENT
@@ -98,10 +40,10 @@ BEGIN:VEVENT
 CATEGORIES:Peacock
 DESCRIPTION:Ted and John’s plan to exact revenge on the school bully inadv
  ertently puts them in a parental role.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240111
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:ted - 1x02 - My Two Dads
 UID:NzbDrone_episode_11163
 END:VEVENT
@@ -109,10 +51,10 @@ BEGIN:VEVENT
 CATEGORIES:Peacock
 DESCRIPTION:Ted and John go to extraordinary lengths so that John can watc
  h his first adult film.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240111
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:ted - 1x03 - Ejectile Dysfunction
 UID:NzbDrone_episode_11164
 END:VEVENT
@@ -120,10 +62,10 @@ BEGIN:VEVENT
 CATEGORIES:Peacock
 DESCRIPTION:Ted’s Halloween plans with John are thwarted when Blaire force
  s him to be her designated driver.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240111
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:ted - 1x04 - Subways\, Bicycles and Automobiles
 UID:NzbDrone_episode_11165
 END:VEVENT
@@ -131,10 +73,10 @@ BEGIN:VEVENT
 CATEGORIES:Peacock
 DESCRIPTION:Blaire asks Matty and Susan to let Ted be their marriage thera
  pist\; Susan pursues a past career.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240111
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:ted - 1x05 - Desperately Seeking Susan
 UID:NzbDrone_episode_11166
 END:VEVENT
@@ -142,10 +84,10 @@ BEGIN:VEVENT
 CATEGORIES:Peacock
 DESCRIPTION:Matty’s unorthodox Christmas wish is granted\, completely upen
  ding the Bennett family dynamic.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240111
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:ted - 1x06 - Loud Night
 UID:NzbDrone_episode_11167
 END:VEVENT
@@ -153,17 +95,17 @@ BEGIN:VEVENT
 CATEGORIES:Peacock
 DESCRIPTION:As the end of the school year approaches\, Ted plots to help J
  ohn lose his virginity.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240111
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:ted - 1x07 - He's Gotta Have It
 UID:NzbDrone_episode_11168
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Tensions on Earth and Mars come to a head.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240112
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -174,7 +116,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:As the team close in on Langston\, two members of the 110th fa
  ce danger\, compelling Reacher to devise a dangerous plan to rescue them.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240112
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -184,10 +126,10 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Showtime
 DESCRIPTION:Months later…
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240114
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Curse - 1x10 - Green Queen
 UID:NzbDrone_episode_10097
 END:VEVENT
@@ -195,7 +137,7 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Percy\, Annabeth\, and Grover must resist the alluring draw of
   a casino that feels outside of time.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240116
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -204,7 +146,7 @@ UID:NzbDrone_episode_10736
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240119
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,7 +157,7 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Our heroes journey across the Underworld\, and bargain for the
  ir safety with the god of the dead.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240123
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -227,7 +169,7 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Mount Olympus beckons... and Percy must face his greatest batt
  le yet.
-DTSTAMP:20240112T060002Z
+DTSTAMP:20240113T060001Z
 DTSTART;VALUE=DATE:20240130
 SEQUENCE:0
 STATUS:TENTATIVE
