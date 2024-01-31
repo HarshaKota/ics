@@ -4,24 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Disney+
-DESCRIPTION:Our heroes journey across the Underworld\, and bargain for the
- ir safety with the god of the dead.
-DTSTAMP:20240130T060003Z
-DTSTART;VALUE=DATE:20240123
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Percy Jackson and the Olympians - 1x07 - We Find Out the Truth\, S
- ort Of
-UID:NzbDrone_episode_10737
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Tokyo MX
 DESCRIPTION:Having entered the instance dungeon located inside the subway\
  , Jinwoo levels up time and time again by fighting waves of magic beasts.
   As he gradually makes his way forward\, he finds a long stairway leading
   deeper underground.
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +20,7 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Mount Olympus beckons... and Percy must face his greatest batt
  le yet.
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240130
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -40,8 +28,26 @@ SUMMARY:Percy Jackson and the Olympians - 1x08 - The Prophecy Comes True
 UID:NzbDrone_episode_10738
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Immediately following the season finale of the smash hit Disne
+ y+ Original series “Percy Jackson and the Olympians\,” fans can discover 
+ the magic behind the scenes in the original documentary special “A Hero’s
+  Journey: The Making of Percy Jackson and the Olympians.” Featuring the s
+ eries’ breakout stars\, acclaimed author Rick Riordan and the creative te
+ am\, the 50-minute documentary premieres January 30\, 2024 on Disney+ and
+  will give viewers an exclusive look at the production of one of televisi
+ on’s hottest new shows.
+DTSTAMP:20240131T060002Z
+DTSTART;VALUE=DATE:20240130
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Percy Jackson and the Olympians - 0x01 - “A Hero’s Journey: The Ma
+ king Of Percy Jackson And The Olympians”
+UID:NzbDrone_episode_11520
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240203
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -50,7 +56,7 @@ UID:NzbDrone_episode_11173
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240210
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -61,7 +67,7 @@ BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:News of the tornado reaches Sheldon and Mary in Germany. Also\
  , with the Cooper house in chaos\, Missy steps up.
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240215
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -71,7 +77,7 @@ UID:NzbDrone_episode_11138
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -80,7 +86,7 @@ UID:NzbDrone_episode_11175
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240222
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -89,7 +95,7 @@ UID:NzbDrone_episode_11139
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240130T060003Z
+DTSTAMP:20240131T060002Z
 DTSTART;VALUE=DATE:20240224
 SEQUENCE:0
 STATUS:TENTATIVE
