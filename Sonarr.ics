@@ -9,7 +9,7 @@ DESCRIPTION:Having entered the instance dungeon located inside the subway\
  , Jinwoo levels up time and time again by fighting waves of magic beasts.
   As he gradually makes his way forward\, he finds a long stairway leading
   deeper underground.
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240127
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,34 +20,35 @@ BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Mount Olympus beckons... and Percy must face his greatest batt
  le yet.
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240130
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Percy Jackson and the Olympians - 1x08 - The Prophecy Comes True
 UID:NzbDrone_episode_10738
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Disney+
-DESCRIPTION:Immediately following the season finale of the smash hit Disne
- y+ Original series “Percy Jackson and the Olympians\,” fans can discover 
- the magic behind the scenes in the original documentary special “A Hero’s
-  Journey: The Making of Percy Jackson and the Olympians.” Featuring the s
- eries’ breakout stars\, acclaimed author Rick Riordan and the creative te
- am\, the 50-minute documentary premieres January 30\, 2024 on Disney+ and
-  will give viewers an exclusive look at the production of one of televisi
- on’s hottest new shows.
-DTSTAMP:20240131T060002Z
+DESCRIPTION:Being a demigod isn't easy... and neither is filling the shoes
+  of beloved characters in a massive television series. While embodying ch
+ aracters on a quest\, Walker\, Leah\, and Aryan embark on an epic adventu
+ re of their own. Alongside a passionate cast and crew\, follow these thre
+ e young heroes on the set of "Percy Jackson and the Olympians" as they st
+ ep into worlds fit for gods\, battle unforgettable creatures\, and perfor
+ m legendary stunts. Oh\, and they still have to go to school. Produced by
+  Evolve Studios\, this journey full of challenges and growth uncovers the
+  magic behind-the-Mist.
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240130
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Percy Jackson and the Olympians - 0x01 - “A Hero’s Journey: The Ma
- king Of Percy Jackson And The Olympians”
+SUMMARY:Percy Jackson and the Olympians - 0x01 - A Hero’s Journey: The Mak
+ ing of Percy Jackson and the Olympians
 UID:NzbDrone_episode_11520
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240203
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,7 +57,7 @@ UID:NzbDrone_episode_11173
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240210
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -67,7 +68,7 @@ BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:News of the tornado reaches Sheldon and Mary in Germany. Also\
  , with the Cooper house in chaos\, Missy steps up.
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240215
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -77,7 +78,7 @@ UID:NzbDrone_episode_11138
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240217
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,7 +87,7 @@ UID:NzbDrone_episode_11175
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240222
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -95,7 +96,7 @@ UID:NzbDrone_episode_11139
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240131T060002Z
+DTSTAMP:20240201T060008Z
 DTSTART;VALUE=DATE:20240224
 SEQUENCE:0
 STATUS:TENTATIVE
