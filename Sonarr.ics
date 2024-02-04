@@ -4,103 +4,69 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Tokyo MX
-DESCRIPTION:Having entered the instance dungeon located inside the subway\
- , Jinwoo levels up time and time again by fighting waves of magic beasts.
-  As he gradually makes his way forward\, he finds a long stairway leading
-  deeper underground.
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240127
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Solo Leveling - 1x04 - I've Gotta Get Stronger
-UID:NzbDrone_episode_11172
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Disney+
 DESCRIPTION:Mount Olympus beckons... and Percy must face his greatest batt
  le yet.
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240130
+DTEND:20240131T023900Z
+DTSTAMP:20240204T202602Z
+DTSTART:20240131T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Percy Jackson and the Olympians - 1x08 - The Prophecy Comes True
-UID:NzbDrone_episode_10738
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Disney+
-DESCRIPTION:Being a demigod isn't easy... and neither is filling the shoes
-  of beloved characters in a massive television series. While embodying ch
- aracters on a quest\, Walker\, Leah\, and Aryan embark on an epic adventu
- re of their own. Alongside a passionate cast and crew\, follow these thre
- e young heroes on the set of "Percy Jackson and the Olympians" as they st
- ep into worlds fit for gods\, battle unforgettable creatures\, and perfor
- m legendary stunts. Oh\, and they still have to go to school. Produced by
-  Evolve Studios\, this journey full of challenges and growth uncovers the
-  magic behind-the-Mist.
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240130
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Percy Jackson and the Olympians - 0x01 - A Hero’s Journey: The Mak
- ing of Percy Jackson and the Olympians
-UID:NzbDrone_episode_11520
+UID:NzbDrone_episode_1276
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240203
+DESCRIPTION:Jinwoo joins a party led by Hwang Dongsuk to meet the headcoun
+ t necessary for a C-Rank dungeon. Joined by another temporary hire\, Yoo 
+ Jinho\, the party defeats beasts without much trouble\, but Jinwoo has su
+ spicions about the group's lack of a healer.
+DTEND:20240203T152400Z
+DTSTAMP:20240204T202602Z
+DTSTART:20240203T150000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Solo Leveling - 1x05 - A Pretty Good Deal
-UID:NzbDrone_episode_11173
+UID:NzbDrone_episode_1616
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240210
+DTEND:20240210T152400Z
+DTSTAMP:20240204T202602Z
+DTSTART:20240210T150000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Solo Leveling - 1x06 - TBA
-UID:NzbDrone_episode_11174
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:News of the tornado reaches Sheldon and Mary in Germany. Also\
- , with the Cooper house in chaos\, Missy steps up.
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240215
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Young Sheldon - 7x01 - Half a Wiener Schnitzel and Underwear in a 
- Tree
-UID:NzbDrone_episode_11138
+SUMMARY:Solo Leveling - 1x06 - The Real Hunt Begins
+UID:NzbDrone_episode_1617
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240217
+DTEND:20240217T152400Z
+DTSTAMP:20240204T202602Z
+DTSTART:20240217T150000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Solo Leveling - 1x07 - TBA
-UID:NzbDrone_episode_11175
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240222
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Young Sheldon - 7x02 - TBA
-UID:NzbDrone_episode_11139
+UID:NzbDrone_episode_1618
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Tokyo MX
-DTSTAMP:20240201T060008Z
-DTSTART;VALUE=DATE:20240224
+DTEND:20240224T152400Z
+DTSTAMP:20240204T202602Z
+DTSTART:20240224T150000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Solo Leveling - 1x08 - TBA
-UID:NzbDrone_episode_11176
+UID:NzbDrone_episode_1619
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Tokyo MX
+DTEND:20240302T152400Z
+DTSTAMP:20240204T202602Z
+DTSTART:20240302T150000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Solo Leveling - 1x09 - TBA
+UID:NzbDrone_episode_1620
 END:VEVENT
 END:VCALENDAR
